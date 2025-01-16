@@ -1,0 +1,64 @@
+h1 {
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-weight: bold;
+    color: black;
+    margin-top: -25px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-top: -10px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+p {
+    font: Arial, sans-serif;
+    color: black;
+}
+
+
+body {
+    background-color: whitesmoke;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-radius: 10px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: violet;
+}
+
+a:active {
+    color: white;
+}
+
+credit {
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: thin;
+    color: black;
+}
+
+
+hr {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+
